@@ -1,5 +1,8 @@
 package ku.cs.restaurant.repository;
-
+/**
+ * 6510405334
+ * กิตติคุณ บุญต่อยุทธ
+ * */
 import ku.cs.restaurant.entity.Restaurant;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
